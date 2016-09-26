@@ -1,5 +1,5 @@
 {
-    'name': 'ASN Odoo 9 Theme',
+    'name': 'ASN Odoo 9 Backend-Theme',
     'version': '1.0',
     'author': 'Ajeng Shilvie N',
     'description': '''

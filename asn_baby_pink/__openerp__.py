@@ -1,5 +1,5 @@
 {
-    'name': 'ASN Baby Pink Theme',
+    'name': 'ASN Baby Pink Backend-Theme',
     'version': '1.0',
     'author': 'Ajeng Shilvie N',
     'description': '''
