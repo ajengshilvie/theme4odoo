@@ -1,7 +1,7 @@
 {
     'name': 'ASN Baby Pink Theme',
     'version': '1.0',
-    'author': 'ASN',
+    'author': 'Ajeng Shilvie N',
     'description': '''
         A custom module to change default odoo menu color
     ''',
