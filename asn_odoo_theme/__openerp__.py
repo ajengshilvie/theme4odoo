@@ -3,7 +3,7 @@
     'version': '1.0',
     'author': 'Ajeng Shilvie N',
     'description': '''
-        A custom module to change default odoo menu color
+        For Community Series, change Default Black Odoo Backend Theme like Odoo 9 Enterprise
     ''',
     'category': 'Themes/ASN',
     'depends': [
