@@ -1,9 +1,9 @@
 {
-    'name': 'ASN Odoo 9 Theme',
+    'name': 'Odoo 9 Backend-Theme',
     'version': '1.0',
-    'author': 'ASN',
+    'author': 'Ajeng Shilvie N',
     'description': '''
-        A custom module to change default odoo menu color
+        A custom module to change menu bar like Odoo Enterprise
     ''',
     'category': 'Themes/ASN',
     'depends': [
