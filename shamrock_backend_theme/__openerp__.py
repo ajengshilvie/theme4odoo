@@ -8,7 +8,7 @@
         This backEnd theme may not like the enterprise version. But have a taste ! 
     """,
     'images':[
-            'static/description/main_screenshot.jpg',
+            'static/description/main_screenshot.png',
     ],
     'depends' : ['base','web'],
     'data':[
