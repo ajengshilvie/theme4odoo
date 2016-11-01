@@ -1,5 +1,5 @@
 {
-    'name' : 'Shamrock Odoo 10 Backend Theme',
+    'name' : 'Shamrock Backend Theme',
     'version' : '1.0',
     'author' : 'Ajeng Shilvie N',
     'category' : 'Themes/ASN',
