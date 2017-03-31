@@ -15,5 +15,8 @@
     'data':[
         'views.xml',
         ],
-    'installable': True
+    'installable': True,
+    'auto_install': False,
+    'application': False,
+    'price': 0.00,
 }
