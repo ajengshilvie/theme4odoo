@@ -5,7 +5,7 @@
     'description': '''
         A custom module to change menu bar like Odoo Enterprise
     ''',
-    'category': 'Themes/ASN',
+    'category': 'Themes/Backend',
     'depends': [
         'base',
     ],
