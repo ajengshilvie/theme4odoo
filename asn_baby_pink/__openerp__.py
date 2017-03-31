@@ -5,7 +5,7 @@
     'description': '''
         A custom module to change default odoo menu color
     ''',
-    'category': 'Themes/ASN',
+    'category': 'Themes/Backend',
     'depends': [
         'base',
     ],

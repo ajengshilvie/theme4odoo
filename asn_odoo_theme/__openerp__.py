@@ -5,7 +5,7 @@
     'description': '''
         For Community Series, change Default Black Odoo Backend Theme like Odoo 9 Enterprise
     ''',
-    'category': 'Themes/ASN',
+    'category': 'Themes/Backend',
     'depends': [
         'base',
     ],
