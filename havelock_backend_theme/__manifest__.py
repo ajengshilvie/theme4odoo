@@ -19,4 +19,5 @@
     'auto_install': False,
     'application': False,
     'price': 0.00,
+    'email':'ajeng@odoo.or.id'
 }
