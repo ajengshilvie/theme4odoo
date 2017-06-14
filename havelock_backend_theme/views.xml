@@ -13,6 +13,7 @@
 
  		 <template id="menu_webclient_bootstrap_havelock_backend_theme" inherit_id="web.webclient_bootstrap">
             <xpath expr="//div[@class='navbar-header']" position="inside">
+                <button type="button" class="navbar-toggle btn-link fa fa-search fa-lg" onclick="$('.o_control_panel').toggleClass('hidden');"/>
                 <ul class="ul_toggle_leftmenu">
                     <li class="btn-link toggle_leftmenu">
                          <span class="fa fa-bars fa-lg"></span>
@@ -25,4 +26,3 @@
 
     </data>
 </odoo>
-
