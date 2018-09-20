@@ -1,7 +1,7 @@
 {
     'name' : 'Havelock Backend Theme',
     'version' : '10.0',
-    'author' : 'Ajeng Shilvie N',
+    'author' : 'Ajeng Shilvie N / ajeng039e@gmail.com',
     'category' : 'Themes/Backend',
     'website' : '',
     'summary': 'Its Havelock Blue !! Inspired by OpenWorx. This theme created for Odoo Community Edition ! ',
