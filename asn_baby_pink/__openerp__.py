@@ -1,7 +1,7 @@
 {
     'name': 'Baby Pink Backend-Theme',
     'version': '1.0',
-    'author': 'Ajeng Shilvie N',
+    'author': 'Ajeng Shilvie N / ajeng039e@gmail.com',
     'description': '''
         A custom module to change default odoo menu color
     ''',

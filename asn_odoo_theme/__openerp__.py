@@ -1,7 +1,7 @@
 {
     'name': 'Odoo 9 Backend-Theme',
     'version': '1.0',
-    'author': 'Ajeng Shilvie N',
+    'author': 'Ajeng Shilvie N / ajeng039e@gmail.com',
     'description': '''
         For Community Series, change Default Black Odoo Backend Theme like Odoo 9 Enterprise
     ''',
